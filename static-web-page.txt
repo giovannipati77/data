@@ -1,1 +1,1 @@
-<p> Secret value is 1993051 </p>
+Secret value is 1993051
